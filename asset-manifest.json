@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/foodapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/foodapp/static/js/main.594601af.chunk.js",
+    "main.js.map": "/foodapp/static/js/main.594601af.chunk.js.map",
+    "runtime-main.js": "/foodapp/static/js/runtime-main.cba1a9f4.js",
+    "runtime-main.js.map": "/foodapp/static/js/runtime-main.cba1a9f4.js.map",
+    "static/js/2.72d26290.chunk.js": "/foodapp/static/js/2.72d26290.chunk.js",
+    "static/js/2.72d26290.chunk.js.map": "/foodapp/static/js/2.72d26290.chunk.js.map",
+    "static/js/3.f9edfaa6.chunk.js": "/foodapp/static/js/3.f9edfaa6.chunk.js",
+    "static/js/3.f9edfaa6.chunk.js.map": "/foodapp/static/js/3.f9edfaa6.chunk.js.map",
+    "index.html": "/foodapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/foodapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.72d26290.chunk.js.LICENSE.txt": "/foodapp/static/js/2.72d26290.chunk.js.LICENSE.txt",
+    "static/media/fishnonveg.6f889d6d.jpg": "/foodapp/static/media/fishnonveg.6f889d6d.jpg",
+    "static/media/startersgobi.66fbb031.jpg": "/foodapp/static/media/startersgobi.66fbb031.jpg",
+    "static/media/vegmushroom.a50e0445.jpg": "/foodapp/static/media/vegmushroom.a50e0445.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba1a9f4.js",
+    "static/js/2.72d26290.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.594601af.chunk.js"
+  ]
+}
